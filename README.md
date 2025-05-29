@@ -1,4 +1,4 @@
-# 🌸 FnP Sales Dashboard – Excel Interactive Report
+# FnP Sales Dashboard – Excel Interactive Report
 
 An interactive Excel dashboard for analyzing FnP (Flowers & Personalised Gifts) sales data using Power Query, Power Pivot, Pivot Tables, KPIs, and Slicers. This report helps uncover sales trends, product performance, and customer behavior across different cities and occasions.
 
@@ -33,7 +33,7 @@ The raw data was cleaned using **Power Query**, modeled in **Power Pivot**, and 
 
 ---
 
-## 📊 Dashboard Features & KPIs
+## Dashboard Features & KPIs
 
 ### 📈 Pivot Table Visuals:
 1. Revenue by Product Category  
