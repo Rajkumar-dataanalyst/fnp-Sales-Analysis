@@ -6,7 +6,7 @@ An interactive Excel dashboard for analyzing FnP (Flowers & Personalised Gifts) 
 
 ## 📸 Dashboard Preview
 
-![FnP Sales Dashboard Screenshot]()
+![FnP Sales Dashboard Screenshot](https://github.com/Rajkumar-dataanalyst/fnp-Sales-Analysis/blob/main/dashboard_screenshot.png?raw=true)
 
 ---
 
